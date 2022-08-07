@@ -8119,6 +8119,16 @@
      "domains":[
        "sidefx.com"
       ]
-   }
-  ]
+   },
+   {
+    "name":"Code.org",
+    "url":"https://bugcrowd.com/codeorg",
+    "bounty": true,
+    "swag": false,
+    "domains":[
+       "adhoc-bugcrowd.cdn-code.org",
+       "adhoc-bugcrowd-studio.cdn-code.org"
+    ]
+ }
+]
 }
